@@ -4,6 +4,8 @@ MPSaaS
 
 ISaaSfMPSaaS
 
+SmallAndStupidFileNameDeleterAsAService
+
 ## Branch naming convention
 
 branch-TIMESTAMP_in_epoch
