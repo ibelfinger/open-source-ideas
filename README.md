@@ -6,6 +6,12 @@ ISaaSfMPSaaS
 
 SmallAndStupidFileNameDeleterAsAService
 
+B O N G O
+O
+N
+G
+O
+
 ## Branch naming convention
 
 branch-TIMESTAMP_in_epoch
