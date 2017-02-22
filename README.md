@@ -6,11 +6,7 @@ ISaaSfMPSaaS
 
 SmallAndStupidFileNameDeleterAsAService
 
-B O N G O
-O
-N
-G
-O
+BPSaaS
 
 ## Branch naming convention
 
